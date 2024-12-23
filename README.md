@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫 About Me:
-Systems engineer graduated from the Pontificia Universidad Javeriana with an emphasis on software development.
+Systems engineer graduated from the UNAD with an emphasis on security software .
 
 ## 💻 Technologies:
 ![CSS](https://img.shields.io/badge/css-0E84C5?style=for-the-badge&logo=css3&logoColor=#0E84C5) 
